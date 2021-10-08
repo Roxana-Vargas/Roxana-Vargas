@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Roxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxana-vargas&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Roxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roxana-Vargas&theme=radical)](https://github.com/Roxana-Vargas/github-readme-stats)
 
