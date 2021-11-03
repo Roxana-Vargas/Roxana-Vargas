@@ -1,6 +1,6 @@
 ### Hi there, I'm Roxana Vargas 👋
 
-I am Front-End Developer, with experience in the development and testing of web applications using JavaScript, Jest, HTML, CSS and Node.js, using the SCRUM methodology. Currently, I continue training in Web Development and looking for new opportunities every day in which I can continue learning and collaborating.
+I am Front-End Developer, with experience in the development and testing of web applications using React, JavaScript, Jest, HTML, CSS and Node.js, using the SCRUM methodology. Currently, I continue training in Web Development and looking for new opportunities every day in which I can continue learning and collaborating.
 
 <!--
 **Roxana-Vargas/Roxana-Vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
