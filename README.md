@@ -1,6 +1,11 @@
 ### Hi there, I'm Roxana Vargas 👋
 
-I am Front-End Developer, with experience in the development and testing of web applications using React, JavaScript, Jest, HTML, CSS, Boostrap and Node.js, using the SCRUM methodology. Currently, I continue training in Web Development and looking for new opportunities every day in which I can continue learning and collaborating.
+I am a software developer with experience in developing web applications using React, Vue, JavaScript, and Jest.
+I also have experience in developing mobile applications with Flutter.
+Additionally, I have implemented backend solutions with Node.js, utilizing AWS services (API Gateway, Lambda, DynamoDB, S3, Rekognition, Cognito, Bedrock) and Firebase.
+
+SCRUM methodology.
+Pedagogical experience (6 years).
 
 <!--
 **Roxana-Vargas/Roxana-Vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
