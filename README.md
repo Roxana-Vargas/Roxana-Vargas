@@ -66,6 +66,9 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png" alt="vue" width="40" height="40"/> 
+  </a>
   
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
@@ -80,7 +83,7 @@ Here are some ideas to get you started:
     <img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain-vectordb--logo.png?itok=3wd-XHaL" alt="langchain" width="40" height="40"/> 
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x617-rl2bcqfj.png" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="40" height="40"/> 
